@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Travel Booking Website**
 
-- 🌱 I’m currently learning **GSAP, Three.js**
+- 🌱 I’m currently learning **GSAP, Next.JS**
 
 - 💬 Ask me about **React**
 
