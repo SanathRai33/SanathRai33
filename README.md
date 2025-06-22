@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanathrai33&label=Profile%20views&color=0e75b6&style=flat" alt="sanathrai33" /> </p>
 
-- 🔭 I’m currently working on **Travel Booking Website**
+- 🔭 I’m currently working on **RaiZen E-Commerce Website**
 
-- 🌱 I’m currently learning **GSAP, Three.js**
+- 🌱 I’m currently learning **DSA with C++, Animation with GSAP**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **MERN stack**
 
 - 📫 How to reach me **sanathrai03@gmail.com**
 
