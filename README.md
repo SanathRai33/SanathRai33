@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanathrai33&label=Profile%20views&color=0e75b6&style=flat" alt="sanathrai33" /> </p>
 
-- 🔭 I’m currently working on **RaiZen E-Commerce Website**
+- 🔭 I’m currently working on **RaiZen E-Commerce Project**
 
 - 🌱 I’m currently learning **DSA with C++, Animation with GSAP**
 
