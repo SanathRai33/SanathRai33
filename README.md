@@ -32,7 +32,7 @@
   <a href="https://isocpp.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://gsap.com/" target="_blank" rel="noreferrer"> <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/logo.gif" alt="gsap" width="40" height="40"/> </a> 
+<!--   <a href="https://gsap.com/" target="_blank" rel="noreferrer"> <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/logo.gif" alt="gsap" width="40" height="40"/> </a>  -->
 <!--   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>   -->
 </p>
 
