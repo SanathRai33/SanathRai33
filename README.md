@@ -20,7 +20,8 @@
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/800px-Typescript.svg.png" alt="typescript" width="40" height="40"/> </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://logo.svgcdn.com/d/bootstrap-original-wordmark-8x.png" alt="bootstrap" width="40" height="40"/> </a> 
   <a href="https://mui.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mui/material-ui/master/docs/public/static/logo.png" alt="mui" width="40" height="40"/> </a> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://d2lgmzy8vjj79z.cloudfront.net/mongodb.svg" alt="mongodb" width="40" height="40" /> </a> 
@@ -35,7 +36,6 @@
 <!--   <a href="https://gsap.com/" target="_blank" rel="noreferrer"> <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/logo.gif" alt="gsap" width="40" height="40"/> </a>  -->
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluent-systems-filled/512/nextjs.png" alt="nextjs" width="40" height="40"/> </a>  
   
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/800px-Typescript.svg.png" alt="typescript" width="40" height="40"/> </a>
 
 </p>
 
