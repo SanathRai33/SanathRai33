@@ -23,6 +23,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/800px-Typescript.svg.png" alt="typescript" width="40" height="40"/> </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://logo.svgcdn.com/d/bootstrap-original-wordmark-8x.png" alt="bootstrap" width="40" height="40"/> </a> 
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/></a>
   <a href="https://mui.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mui/material-ui/master/docs/public/static/logo.png" alt="mui" width="40" height="40"/> </a> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://d2lgmzy8vjj79z.cloudfront.net/mongodb.svg" alt="mongodb" width="40" height="40" /> </a> 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="express" width="40" height="40"/> </a> 
