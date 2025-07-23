@@ -32,7 +32,7 @@
 
 <!-- Frontend -->
 <h4 display="inline">🎨 Frontend Frameworks & Styling</h4>
-<p align="left">
+<p align="left" display="inline">
   <a href="https://reactjs.org/" target="_blank"><img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/25085005/reactjs-inner.svg" alt="React" width="40" height="40"/></a>
   <a href="https://nextjs.org/" target="_blank"><img src="https://img.icons8.com/fluent-systems-filled/512/nextjs.png" alt="Next.js" width="40" height="40"/></a>
   <a href="https://getbootstrap.com" target="_blank"><img src="https://logo.svgcdn.com/d/bootstrap-original-wordmark-8x.png" alt="Bootstrap" width="40" height="40"/></a>
