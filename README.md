@@ -31,7 +31,7 @@
 </p>
 
 <!-- Frontend -->
-<h4>🎨 Frontend Frameworks & Styling</h4>
+<h4 display="inline">🎨 Frontend Frameworks & Styling</h4>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank"><img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/25085005/reactjs-inner.svg" alt="React" width="40" height="40"/></a>
   <a href="https://nextjs.org/" target="_blank"><img src="https://img.icons8.com/fluent-systems-filled/512/nextjs.png" alt="Next.js" width="40" height="40"/></a>
