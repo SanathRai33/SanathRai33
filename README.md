@@ -31,14 +31,17 @@
 </p>
 
 <!-- Frontend -->
-<h4 display="inline">🎨 Frontend Frameworks & Styling</h4>
-<p align="left" display="inline">
-  <a href="https://reactjs.org/" target="_blank"><img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/25085005/reactjs-inner.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://img.icons8.com/fluent-systems-filled/512/nextjs.png" alt="Next.js" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://logo.svgcdn.com/d/bootstrap-original-wordmark-8x.png" alt="Bootstrap" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
-  <a href="https://mui.com" target="_blank"><img src="https://raw.githubusercontent.com/mui/material-ui/master/docs/public/static/logo.png" alt="MUI" width="40" height="40"/></a>
-</p>
+<div style="display: flex; align-items: center;">
+  <h4 style="margin-right: 10px;">🎨 Frontend Frameworks & Styling</h4>
+  <p style="display: flex; gap: 10px; align-items: center; margin: 0;">
+    <a href="https://reactjs.org/" target="_blank"><img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/25085005/reactjs-inner.svg" alt="React" width="40" height="40"/></a>
+    <a href="https://nextjs.org/" target="_blank"><img src="https://img.icons8.com/fluent-systems-filled/512/nextjs.png" alt="Next.js" width="40" height="40"/></a>
+    <a href="https://getbootstrap.com" target="_blank"><img src="https://logo.svgcdn.com/d/bootstrap-original-wordmark-8x.png" alt="Bootstrap" width="40" height="40"/></a>
+    <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
+    <a href="https://mui.com" target="_blank"><img src="https://raw.githubusercontent.com/mui/material-ui/master/docs/public/static/logo.png" alt="MUI" width="40" height="40"/></a>
+  </p>
+</div>
+
 
 <!-- Backend -->
 <h4>🔧 Backend & Runtime</h4>
