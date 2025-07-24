@@ -39,5 +39,6 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanathrai33&show_icons=true&locale=en&layout=compact" alt="sanathrai33" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanathrai33&layout=compact&langs_count=8&show_icons=true" alt="sanathrai33" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-
