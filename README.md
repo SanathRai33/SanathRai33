@@ -34,11 +34,15 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://logo.svgcdn.com/d/bootstrap-original-wordmark-8x.png" alt="bootstrap" width="40" height="40"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/></a>
   <a href="https://mui.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mui/material-ui/master/docs/public/static/logo.png" alt="mui" width="40" height="40"/> </a> 
+  <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="shadcn" width="40" height="40"/></a>
   <br/>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://d2lgmzy8vjj79z.cloudfront.net/mongodb.svg" alt="mongodb" width="40" height="40" /> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a> 
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
   <br/>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
+
   
 <!--   <a href="https://gsap.com/" target="_blank" rel="noreferrer"> <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/logo.gif" alt="gsap" width="40" height="40"/> </a>  -->
 </p>
