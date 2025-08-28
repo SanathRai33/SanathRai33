@@ -50,7 +50,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanathrai33&layout=compact&langs_count=9&show_icons=true" alt="sanathrai33" />
 </p>
 
-[![My LeetCode stats](https://leetcode-stats-six.vercel.app/?username=<sanathrai33>)](https://github.com/KnlnKS/leetcode-stats)
+### My LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/SanathRai33?theme=dark&ext=heatmap)](https://leetcode.com/SanathRai33)
 
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/<sanathrai33>)](https://leetcode.com/<sanathrai33>)
