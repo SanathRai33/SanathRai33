@@ -55,7 +55,7 @@
 [![LeetCode Stats](https://leetcard.jacoblin.cool/SanathRai33?theme=dark&ext=heatmap)](https://leetcode.com/SanathRai33)
 
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/<sanathrai33>)](https://leetcode.com/<sanathrai33>)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/SanathRai33)](https://leetcode.com/SanathRai33)
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-
