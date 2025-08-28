@@ -52,4 +52,8 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/<sanathrai33>)
 
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/<sanathrai33>)](https://leetcode.com/<sanathrai33>)
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-
