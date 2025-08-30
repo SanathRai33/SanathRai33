@@ -53,10 +53,11 @@
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/SanathRai33)](https://leetcode.com/SanathRai33)
 
+<p align="center">
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=SanathRai33&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanathRai33&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
-
-  <img src="https://github-readme-stats.vercel.app/api?username=SanathRai33&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=SanathRai33&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</p>
 
 
 
