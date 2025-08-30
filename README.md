@@ -47,7 +47,7 @@
 <!--   <a href="https://gsap.com/" target="_blank" rel="noreferrer"> <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/logo.gif" alt="gsap" width="40" height="40"/> </a>  -->
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanathrai33&layout=compact&langs_count=9&show_icons=true" alt="sanathrai33" />
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanathrai33&layout=compact&langs_count=9&show_icons=true" alt="sanathrai33" />
 </p>
 
 
