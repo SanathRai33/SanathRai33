@@ -16,13 +16,16 @@
   <a href="https://instagram.com/sannu_rai33" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sannu_rai33" height="30" width="40" />
   </a>
+  
   <a href="https://www.linkedin.com/in/sanath-rai33/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanath-rai33" height="30" width="40" />
-  </a>
-  <a href="https://discord.com/users/sanathrai33" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" alt="sanathrai33" height="30" width="40" />
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="sanath-rai33" height="30" width="40" />
 </a>
-  <a href="https://t.me/sanathrai33" target="blank">
+
+<a href="https://discord.com/users/sanathrai33" target="blank">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="sanathrai33" height="30" width="40" />
+</a>
+
+<a href="https://t.me/sanathrai33" target="blank">
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="sanathrai33" height="30" width="40" />
 </a>
 </p>
