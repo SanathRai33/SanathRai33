@@ -18,7 +18,7 @@
   </a>
   
   <a href="https://www.linkedin.com/in/sanath-rai33/" target="blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="sanath-rai33" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" alt="sanath-rai33" height="30" width="40" />
 </a>
 
 <a href="https://discord.com/users/sanathrai33" target="blank">
