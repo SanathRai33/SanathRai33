@@ -17,7 +17,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sannu_rai33" height="30" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/sanath-rai33/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanath-rai33" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="sanath-rai33" height="30" width="40" />
   </a>
   <a href="https://discord.com/users/sanathrai33" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sanathrai33" height="30" width="40" />
