@@ -66,6 +66,7 @@
 
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/SanathRai33)](https://leetcode.com/SanathRai33)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%231BA94C.svg?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/sanathrai03)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanathRai33&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
