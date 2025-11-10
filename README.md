@@ -65,9 +65,11 @@
 </p>
 
 
-
 [![LeetCode Stats](https://leetcard.jacoblin.cool/SanathRai33)](https://leetcode.com/SanathRai33)
-[![HackerRank Stats](https://hackerrank.jacoblin.cool/sanathrai03)](https://hackerrank.com/sanathrai03)
+![HackerRank Stats](https://img.shields.io/badge/HackerRank%20Stats-Easy%3A%2018%20%7C%20Medium%3A%2025%20%7C%20Hard%3A%200-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white)
+[![HackerRank Stats](https://raw.githubusercontent.com/SanathRai33/HackerRank-Stats/main/profile.svg)](https://www.hackerrank.com/sanathrai03)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/SanathRai33)](https://leetcode.com/SanathRai33)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-%231BA94C?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/sanathrai03)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanathRai33&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
