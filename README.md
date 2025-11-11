@@ -64,9 +64,10 @@
 <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanathrai33&layout=compact&langs_count=9&show_icons=true" alt="sanathrai33" />
 </p>
 <br/>
-
+<p align="center">
 [![LeetCode Stats](https://leetcard.jacoblin.cool/SanathRai33)](https://leetcode.com/SanathRai33)
 [![Hackerrank badges](https://hackerrank-badges.vercel.app/sanathrai03)](https://hackerrank.com/profile/sanathrai03/)
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanathRai33&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
