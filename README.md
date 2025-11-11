@@ -63,7 +63,7 @@
 
 <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanathrai33&layout=compact&langs_count=9&show_icons=true" alt="sanathrai33" />
 </p>
-
+<br/>
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/SanathRai33)](https://leetcode.com/SanathRai33)
 [![Hackerrank badges](https://hackerrank-badges.vercel.app/sanathrai03)](https://hackerrank.com/profile/sanathrai03/)
