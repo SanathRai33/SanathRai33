@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Freelancing Project**
 
-- 🌱 I’m currently learning **DSA with C++, Animation with GSAP**
+- 🌱 I’m currently learning **SEO with Next.js**
 
 - 💬 Ask me about **MERN stack**
 
