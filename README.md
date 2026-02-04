@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **SEO with Next.js**
 
-- 💬 Ask me about **MERN stack**
+- 💬 Ask me about **Full stack**
 
 - 📫 How to reach me **sanathrai03@gmail.com**
 
