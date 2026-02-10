@@ -30,6 +30,10 @@
 <a href="https://t.me/sanathrai33" target="blank">
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="sanathrai33" height="30" width="40" />
 </a>
+
+<a href="https://sanathrai33.github.io/Portfolio/" target="blank">
+  <img align="center" src="https://img.icons8.com/dotty/1200/portfolio.jpg" alt="sanathrai33" height="30" width="40" />
+</a>
 </p>
 
 <h1></h1>
