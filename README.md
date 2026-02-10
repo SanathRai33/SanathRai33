@@ -32,7 +32,7 @@
 </a>
 
 <a href="https://sanathrai33.github.io/Portfolio/" target="blank">
-  <img align="center" src="https://img.icons8.com/dotty/1200/portfolio.jpg" alt="sanathrai33" height="30" width="40" />
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/7296/7296866.png" alt="sanathrai33" height="30" width="40" />
 </a>
 </p>
 
